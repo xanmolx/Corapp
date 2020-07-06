@@ -7,4 +7,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="purple_heading">
+        <item name="android:textColor">@color/purple_main</item>
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">43sp</item>
+    </style>
+
 </resources>
